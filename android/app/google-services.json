@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436285060607",
+    "project_id": "groupf-23f5a",
+    "storage_bucket": "groupf-23f5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436285060607:android:a3577649a117f3a322e3ca",
+        "android_client_info": {
+          "package_name": "com.mycompany.groupf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHGw_Cr27pGihXWTaMWqqkUHxH750PNSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+import '/components/back_widget.dart';
+import '/flutter_flow/flutter_flow_theme.dart';
+import '/flutter_flow/flutter_flow_util.dart';
+import '/flutter_flow/flutter_flow_widgets.dart';
+import 'child_course_test_widget.dart' show ChildCourseTestWidget;
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:provider/provider.dart';
+
+class ChildCourseTestModel extends FlutterFlowModel<ChildCourseTestWidget> {
+  ///  State fields for stateful widgets in this page.
+
+  final unfocusNode = FocusNode();
+  // Model for back component.
+  late BackModel backModel;
+
+  /// Initialization and disposal methods.
+
+  void initState(BuildContext context) {
+    backModel = createModel(context, () => BackModel());
+  }
+
+  void dispose() {
+    unfocusNode.dispose();
+    backModel.dispose();
+  }
+
+  /// Action blocks are added here.
+
+  /// Additional helper methods are added here.
+}

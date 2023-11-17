@@ -1,0 +1,52 @@
+// Export pages
+export '/sign/choose_identity/choose_identity_widget.dart'
+    show ChooseIdentityWidget;
+export '/sign/forgot_password/forgot_password_widget.dart'
+    show ForgotPasswordWidget;
+export '/child/child_private_page/child_homepage/child_homepage_widget.dart'
+    show ChildHomepageWidget;
+export '/sign/create_account/create_account_widget.dart'
+    show CreateAccountWidget;
+export '/child/child_private_page/child_pocket/child_pocket_widget.dart'
+    show ChildPocketWidget;
+export '/child/child_private_page/child_choose_course/child_choose_course_widget.dart'
+    show ChildChooseCourseWidget;
+export '/child/child_private_page/child_budget/child_budget_widget.dart'
+    show ChildBudgetWidget;
+export '/child/child_private_page/child_create_goals/child_create_goals_widget.dart'
+    show ChildCreateGoalsWidget;
+export '/child/child_private_page/child_all_goals/child_all_goals_widget.dart'
+    show ChildAllGoalsWidget;
+export '/child/child_course_page/child_course1/child_course1_video/child_course1_video_widget.dart'
+    show ChildCourse1VideoWidget;
+export '/child/child_course_page/child_course1/child_c1_test1/child_c1_test1_widget.dart'
+    show ChildC1Test1Widget;
+export '/child/child_course_page/child_course1/child_test1_score/child_test1_score_widget.dart'
+    show ChildTest1ScoreWidget;
+export '/child/child_course_page/child_course1/child_course1/child_course1_widget.dart'
+    show ChildCourse1Widget;
+export '/child/child_course_page/child_course2/child_course2/child_course2_widget.dart'
+    show ChildCourse2Widget;
+export '/child/child_course_page/child_course2/child_course2_video/child_course2_video_widget.dart'
+    show ChildCourse2VideoWidget;
+export '/child/child_course_page/child_course2/child_test2_score/child_test2_score_widget.dart'
+    show ChildTest2ScoreWidget;
+export '/child/child_course_page/child_course2/child_c2_test1/child_c2_test1_widget.dart'
+    show ChildC2Test1Widget;
+export '/child/child_course_test/child_course_test_widget.dart'
+    show ChildCourseTestWidget;
+export '/parent/parent_homepage/parent_homepage_widget.dart'
+    show ParentHomepageWidget;
+export '/parent/parent_task/parent_task_widget.dart' show ParentTaskWidget;
+export '/sign/login/login_widget.dart' show LoginWidget;
+export '/child/child_private_page/child_statistics/child_statistics_widget.dart'
+    show ChildStatisticsWidget;
+export '/parent/parent_view_task/parent_view_task_widget.dart'
+    show ParentViewTaskWidget;
+export '/parent/parent_view_child/parent_view_child_widget.dart'
+    show ParentViewChildWidget;
+export '/sign/tuto/tuto_widget.dart' show TutoWidget;
+export '/child/child_private_page/child_profile/child_profile_widget.dart'
+    show ChildProfileWidget;
+export '/parent/parent_statistic/parent_statistic_widget.dart'
+    show ParentStatisticWidget;
